@@ -1,3 +1,6 @@
+## [1.0.0] - 15-07-2019
+* Migrating project to AndroidX
+
 ## [0.0.19] - 11-07-2018
 * Updating map library to 'com.google.android.gms:play-services-maps:16.0.0'
 
