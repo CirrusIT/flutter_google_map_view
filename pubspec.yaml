@@ -1,6 +1,6 @@
 name: cirrus_map_view
 description: A fork of flutter plugin for displaying native Google Maps.
-version: 0.0.20
+version: 1.0.0
 author: Cirrus IT <info@cirrus-it.net>
 homepage: https://github.com/CirrusIT/flutter_google_map_view
 
