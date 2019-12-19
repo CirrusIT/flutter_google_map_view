@@ -1,4 +1,7 @@
-## [0.0.19] - 11-07-2018
+## [0.0.20] - 02-19-2019
+* Modifying gradle.properties for avoid use of AndroidX
+
+## [0.0.19] - 01-07-2018
 * Updating map library to 'com.google.android.gms:play-services-maps:16.0.0'
 
 ## [0.0.18] - 11-07-2018
